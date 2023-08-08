@@ -1,12 +1,12 @@
 {
   "name": "@adishare/react-native-make",
-  "version": "3.0.1",
+  "version": "3.0.4",
   "author": "@adishare",
   "main": "modules/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adishare/react-native-make"
+    "url": "git+https://github.com/adishare/react-native-make.git"
   },
   "keywords": [
     "react-native",
@@ -40,5 +40,13 @@
   },
   "rnpm": {
     "plugin": "./react-native.config.js"
+  },
+  "description": "<p align=\"center\"><img src=\"./docs/assets/make-logo.png\"></p> <h2 align=\"center\">Everyday tools for simpler React Native development</h2>",
+  "bugs": {
+    "url": "https://github.com/adishare/react-native-make/issues"
+  },
+  "homepage": "https://github.com/adishare/react-native-make#readme",
+  "directories": {
+    "doc": "docs"
   }
 }
