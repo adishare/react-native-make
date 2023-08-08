@@ -1,11 +1,12 @@
 {
-  "name": "@bam.tech/react-native-make",
-  "version": "3.0.3",
+  "name": "@adishare/react-native-make",
+  "version": "3.0.1",
+  "author": "@adishare",
   "main": "modules/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bamlab/react-native-make"
+    "url": "https://github.com/adishare/react-native-make"
   },
   "keywords": [
     "react-native",
@@ -22,15 +23,15 @@
     "release": "release-it"
   },
   "dependencies": {
-    "color-string": "1.5.3",
+    "color-string": "^1.9.1",
     "colors": "1.3.3",
-    "sharp": "0.28.0",
+    "sharp": "^0.32.4",
     "universal-analytics": "0.4.20"
   },
   "devDependencies": {
-    "@types/color-string": "1.5.0",
+    "@types/color-string": "^1.5.2",
     "@types/react-native-community__cli": "2.0.0",
-    "@types/sharp": "0.22.2",
+    "@types/sharp": "^0.32.0",
     "@types/universal-analytics": "0.4.3",
     "prettier": "1.18.2",
     "release-it": "12.3.6",
